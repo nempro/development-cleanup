@@ -1,6 +1,6 @@
 # 開発フォルダお掃除
 
-**development-cleanup 0.1.0** — Windows上のCodexで、開発中に増えたGitワークツリーや一時作業物を安全に点検するスキルです。GitHub無料公開用のパッケージです（未公開）。[公開前チェック結果](PRE-PUBLISH.md)を同梱しています。OpenAIの公式製品・公式スキルではありません。
+**development-cleanup 0.1.0** — Windows上のCodexで、開発中に増えたGitワークツリーや一時作業物を安全に点検するスキルです。GitHub無料公開用のパッケージです。[公開前チェック結果](PRE-PUBLISH.md)を同梱しています。OpenAIの公式製品・公式スキルではありません。
 
 **MIT License / © 2026 ねむプロ**
 
