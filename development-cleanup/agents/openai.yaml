@@ -1,0 +1,4 @@
+interface:
+  display_name: "開発フォルダお掃除"
+  short_description: "開発終了時にGitワークツリーと一時物を点検し、安全な対象だけ整理する"
+  default_prompt: "$development-cleanup を使い、このプロジェクトの後片付けを読み取り専用で点検してください。"

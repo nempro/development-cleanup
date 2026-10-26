@@ -1,0 +1,45 @@
+{
+  "date": "2026-10-26",
+  "version": "0.1.0",
+  "license": "MIT",
+  "copyright": "Copyright (c) 2026 ねむプロ",
+  "suite": {
+    "tests_run": 39,
+    "pass": true,
+    "failures": [],
+    "errors": [],
+    "python": "3.10.11",
+    "platform": "Windows",
+    "git": "git version 2.53.0.windows.2"
+  },
+  "zip_install_checks": {
+    "zip_extracts": true,
+    "formal_license_copied": true,
+    "readme_install_files_match": true,
+    "existing_install_refused_without_changes": true,
+    "project_1_audit_readonly": true,
+    "project_2_audit_readonly": true,
+    "project_1_isolated_repo_skill_detected": true,
+    "project_2_isolated_repo_skill_detected": true,
+    "installed_skill_unchanged": true,
+    "no_authentication_copied": true,
+    "extracted_safety_suite_39_pass": true
+  },
+  "codex": "codex-cli 0.164.0-alpha.11.1",
+  "windows_build": "10.0.26200",
+  "architecture": "AMD64",
+  "powershell": "5.1.26100.9711",
+  "tested_payload_sha256": {
+    "LICENSE": "f1769ec33c8f3adce289f1cb52e87021f63b047394d25671db7bf961e798b203",
+    "SKILL.md": "99e9e870c9cae7bb02fe412d395e3c965be19054f0da63a618cfbd169305eeb4",
+    "agents/openai.yaml": "1b63eb89d94bf54d34a02110ca0dd834764e419ad9d7021dfe36aeb8a0e56081",
+    "references/execution.md": "4cd1119ccd02327a2f04b84028555af926a05d62b6fed3944560590351c77de3",
+    "scripts/cleanup.py": "39e85e52d88feac99871ed1b79c1530098922978c69f2805d2e2f8556da3827c"
+  },
+  "installer_sha256": "c434302a35a8b3e006536f5559d502136a08bfdb3e8aa2057b18de51e8a2c770",
+  "model_turn_started": false,
+  "physical_new_account_tested": false,
+  "positive_removal_process_inventory": "mock; Git removal and integrity checks use real synthetic repositories",
+  "required_remaining": [],
+  "github_published": false
+}
